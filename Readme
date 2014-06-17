@@ -1,0 +1,9 @@
+This repo is basically a duplication of my VimSetup. To 
+use it :
+ -  clone the repo
+ - ln -s <..path.to.VimSetup> ~/.vim
+ - ln -s ~/.vim/.vimrc ~/.vimrc
+
+cheers
+Arun
+
