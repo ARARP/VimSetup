@@ -1,0 +1,605 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+$MRU	MRU.vim	/^    let $MRU=$HOME.'\/.vimrecent'$/;"	v
+$MRU	MRU.vim	/^    let $MRU=$VIM.'\\_vimrecent'$/;"	v
+ABOVE_NORMAL_PRIORITY_CLASS	conque_term/conque_win32_util.py	/^ABOVE_NORMAL_PRIORITY_CLASS = 0x00008000$/;"	v
+BELOW_NORMAL_PRIORITY_CLASS	conque_term/conque_win32_util.py	/^BELOW_NORMAL_PRIORITY_CLASS = 0x00004000$/;"	v
+BuildContextStack	omni/cpp/namespaces.vim	/^function! s:BuildContextStack(namespaces, szCurrentScope)$/;"	f
+CAPSLOCK_ON	conque_term/conque_win32_util.py	/^CAPSLOCK_ON = 0x0080$/;"	v
+CHAR_INFO	conque_term/conque_win32_util.py	/^class CHAR_INFO(Structure): # {{{$/;"	c	inherits:Structure
+CHAR_UNION	conque_term/conque_win32_util.py	/^class CHAR_UNION(Union): # {{{$/;"	c	inherits:Union
+CONQUE_COLOR_SEQUENCE	conque_term/conque_globals.py	/^CONQUE_COLOR_SEQUENCE = ($/;"	v
+CONQUE_CTL	conque_term/conque_globals.py	/^CONQUE_CTL = {$/;"	v
+CONQUE_ESCAPE	conque_term/conque_globals.py	/^CONQUE_ESCAPE = {$/;"	v
+CONQUE_ESCAPE_CHARSET	conque_term/conque_globals.py	/^CONQUE_ESCAPE_CHARSET = {$/;"	v
+CONQUE_ESCAPE_HASH	conque_term/conque_globals.py	/^CONQUE_ESCAPE_HASH = {$/;"	v
+CONQUE_ESCAPE_PLAIN	conque_term/conque_globals.py	/^CONQUE_ESCAPE_PLAIN = {$/;"	v
+CONQUE_ESCAPE_QUESTION	conque_term/conque_globals.py	/^CONQUE_ESCAPE_QUESTION = {$/;"	v
+CONQUE_FONT	conque_term/conque_globals.py	/^CONQUE_FONT = {$/;"	v
+CONQUE_GRAPHICS_SET	conque_term/conque_globals.py	/^CONQUE_GRAPHICS_SET = [$/;"	v
+CONQUE_PYTHON_VERSION	conque_term/conque_globals.py	/^CONQUE_PYTHON_VERSION = sys.version_info[0]$/;"	v
+CONQUE_PYTHON_VERSION	conque_term/conque_sole_shared_memory.py	/^    CONQUE_PYTHON_VERSION = 2$/;"	v
+CONQUE_PYTHON_VERSION	conque_term/conque_sole_shared_memory.py	/^    CONQUE_PYTHON_VERSION = 3$/;"	v
+CONQUE_SEQ_REGEX	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX = re.compile(u("(\\x1b\\[?\\??#?[0-9;]*[a-zA-Z0-9@=>]|\\x1b\\][0-9];.*?\\x07|[\\x01-\\x0f]|\\x1b\\([AB0])"), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_CHAR	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_CHAR = re.compile(u("^\\x1b\\("), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_CSI	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_CSI = re.compile(u("^\\x1b\\["), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_CTL	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_CTL = re.compile(u("^[\\x01-\\x0f]$"), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_ESC	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_ESC = re.compile(u("^\\x1b.$"), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_HASH	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_HASH = re.compile(u("^\\x1b#"), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_TITLE	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_TITLE = re.compile(u("^\\x1b\\]"), re.UNICODE)$/;"	v
+CONQUE_SEQ_REGEX_VK	conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_VK = re.compile(u("(\\x1b\\[\\d{1,3}VK)"), re.UNICODE)$/;"	v
+CONQUE_SOLE_BUFFER_LENGTH	conque_term/conque_globals.py	/^CONQUE_SOLE_BUFFER_LENGTH = 1000$/;"	v
+CONQUE_SOLE_BUFFER_REDRAW	conque_term/conque_globals.py	/^CONQUE_SOLE_BUFFER_REDRAW = 500$/;"	v
+CONQUE_SOLE_COMMANDS_SIZE	conque_term/conque_globals.py	/^CONQUE_SOLE_COMMANDS_SIZE = 255$/;"	v
+CONQUE_SOLE_COMMANDS_SIZE	conque_term/conque_sole_communicator.py	/^        CONQUE_SOLE_COMMANDS_SIZE = 255$/;"	v
+CONQUE_SOLE_INPUT_SIZE	conque_term/conque_globals.py	/^CONQUE_SOLE_INPUT_SIZE = 1000$/;"	v
+CONQUE_SOLE_MEM_REDRAW	conque_term/conque_globals.py	/^CONQUE_SOLE_MEM_REDRAW = 1000$/;"	v
+CONQUE_SOLE_RESCROLL_SIZE	conque_term/conque_globals.py	/^CONQUE_SOLE_RESCROLL_SIZE = 255$/;"	v
+CONQUE_SOLE_RESIZE_SIZE	conque_term/conque_globals.py	/^CONQUE_SOLE_RESIZE_SIZE = 255$/;"	v
+CONQUE_SOLE_SCREEN_REDRAW	conque_term/conque_globals.py	/^CONQUE_SOLE_SCREEN_REDRAW = 100$/;"	v
+CONQUE_SOLE_STATS_SIZE	conque_term/conque_globals.py	/^CONQUE_SOLE_STATS_SIZE = 1000$/;"	v
+CONQUE_TABLE_OUTPUT	conque_term/conque_globals.py	/^CONQUE_TABLE_OUTPUT = re.compile("^\\s*\\|\\s.*\\s\\|\\s*$|^\\s*\\+[=+-]+\\+\\s*$")$/;"	v
+CONQUE_WINDOWS_VK	conque_term/conque_win32_util.py	/^CONQUE_WINDOWS_VK = { # {{{$/;"	v
+CONQUE_WINDOWS_VK_ENHANCED	conque_term/conque_win32_util.py	/^CONQUE_WINDOWS_VK_ENHANCED = {$/;"	v
+CONQUE_WINDOWS_VK_INV	conque_term/conque_win32_util.py	/^CONQUE_WINDOWS_VK_INV = dict([v, k] for k, v in CONQUE_WINDOWS_VK.items())$/;"	v
+CONSOLE_SCREEN_BUFFER_INFO	conque_term/conque_win32_util.py	/^class CONSOLE_SCREEN_BUFFER_INFO(Structure): # {{{$/;"	c	inherits:Structure
+COORD	conque_term/conque_win32_util.py	/^class COORD(Structure): # {{{$/;"	c	inherits:Structure
+CREATE_BREAKAWAY_FROM_JOB	conque_term/conque_win32_util.py	/^CREATE_BREAKAWAY_FROM_JOB = 0x01000000$/;"	v
+CREATE_DEFAULT_ERROR_MODE	conque_term/conque_win32_util.py	/^CREATE_DEFAULT_ERROR_MODE = 0x04000000$/;"	v
+CREATE_NEW_CONSOLE	conque_term/conque_win32_util.py	/^CREATE_NEW_CONSOLE = 0x00000010$/;"	v
+CREATE_NEW_PROCESS_GROUP	conque_term/conque_win32_util.py	/^CREATE_NEW_PROCESS_GROUP = 0x00000200$/;"	v
+CREATE_NO_WINDOW	conque_term/conque_win32_util.py	/^CREATE_NO_WINDOW = 0x08000000$/;"	v
+CREATE_PRESERVE_CODE_AUTHZ_LEVEL	conque_term/conque_win32_util.py	/^CREATE_PRESERVE_CODE_AUTHZ_LEVEL = 0x02000000$/;"	v
+CREATE_PROTECTED_PROCESS	conque_term/conque_win32_util.py	/^CREATE_PROTECTED_PROCESS = 0x00040000$/;"	v
+CREATE_SEPARATE_WOW_VDM	conque_term/conque_win32_util.py	/^CREATE_SEPARATE_WOW_VDM = 0x00000800$/;"	v
+CREATE_SHARED_WOW_VDM	conque_term/conque_win32_util.py	/^CREATE_SHARED_WOW_VDM = 0x00001000$/;"	v
+CREATE_SUSPENDED	conque_term/conque_win32_util.py	/^CREATE_SUSPENDED = 0x00000004$/;"	v
+CREATE_UNICODE_ENVIRONMENT	conque_term/conque_win32_util.py	/^CREATE_UNICODE_ENVIRONMENT = 0x00000400$/;"	v
+CanUseOmnicompletion	omni/cpp/maycomplete.vim	/^function! s:CanUseOmnicompletion()$/;"	f
+Conque	conque_term/conque.py	/^class Conque:$/;"	c	inherits:
+ConqueScreen	conque_term/conque_screen.py	/^class ConqueScreen(object):$/;"	c	inherits:object
+ConqueSole	conque_term/conque_sole.py	/^class ConqueSole(Conque):$/;"	c	inherits:Conque
+ConqueSoleSharedMemory	conque_term/conque_sole_shared_memory.py	/^class ConqueSoleSharedMemory():$/;"	c	inherits:
+ConqueSoleSubprocess	conque_term/conque_sole_subprocess.py	/^class ConqueSoleSubprocess():$/;"	c	inherits:
+ConqueSoleWrapper	conque_term/conque_sole_wrapper.py	/^class ConqueSoleWrapper():$/;"	c	inherits:
+ConqueSubprocess	conque_term/conque_subprocess.py	/^class ConqueSubprocess:$/;"	c	inherits:
+DETACHED_PROCESS	conque_term/conque_win32_util.py	/^DETACHED_PROCESS = 0x00000008$/;"	v
+DisplayIncludeTree	omni/cpp/includes.vim	/^function! s:DisplayIncludeTree(szFilePath, indent, ...)$/;"	f
+ENHANCED_KEY	conque_term/conque_win32_util.py	/^ENHANCED_KEY = 0x0100$/;"	v
+EXTENDED_STARTUPINFO_PRESENT	conque_term/conque_win32_util.py	/^EXTENDED_STARTUPINFO_PRESENT = 0x00080000$/;"	v
+ExtendTagItemToPopupItem	omni/cpp/complete.vim	/^function! s:ExtendTagItemToPopupItem(tagItem, szTypeName)$/;"	f
+ExtractScopeFromTypeInfo	omni/cpp/utils.vim	/^function! s:ExtractScopeFromTypeInfo(szTypeInfo)$/;"	f
+ExtractTypeInfoFromDecl	omni/cpp/items.vim	/^function! s:ExtractTypeInfoFromDecl(tokens)$/;"	f
+FOCUS_EVENT	conque_term/conque_win32_util.py	/^FOCUS_EVENT = 0x0010$/;"	v
+FOCUS_EVENT_RECORD	conque_term/conque_win32_util.py	/^class FOCUS_EVENT_RECORD(Structure): # {{{$/;"	c	inherits:Structure
+FilterClassMembers	omni/cpp/complete.vim	/^function! s:FilterClassMembers(tagPopupList, szAccessFilter)$/;"	f
+FilterClassScopeMembers	omni/cpp/complete.vim	/^function! s:FilterClassScopeMembers(tagPopupList, szAccessFilter)$/;"	f
+FilterNamespaceScopeMembers	omni/cpp/complete.vim	/^function! s:FilterNamespaceScopeMembers(tagPopupList)$/;"	f
+FilterOverloadedFunctions	omni/cpp/complete.vim	/^function! s:FilterOverloadedFunctions(tagPopupList)$/;"	f
+FilterStaticClassMembers	omni/cpp/complete.vim	/^function! s:FilterStaticClassMembers(tagPopupList, szAccessFilter)$/;"	f
+FindStartPositionOfCompletion	omni/cpp/complete.vim	/^function! s:FindStartPositionOfCompletion()$/;"	f
+GetAccessFilter	omni/cpp/complete.vim	/^function! s:GetAccessFilter(szFilter, szAccessFilter)$/;"	f
+GetAllUsingNamespaceMapFromCurrentBuffer	omni/cpp/namespaces.vim	/^function! s:GetAllUsingNamespaceMapFromCurrentBuffer(...)$/;"	f
+GetAllUsingNamespaceMapFromFile	omni/cpp/namespaces.vim	/^function! s:GetAllUsingNamespaceMapFromFile(szFilePath, ...)$/;"	f
+GetClassScopeAtCursor	omni/cpp/namespaces.vim	/^function! s:GetClassScopeAtCursor()$/;"	f
+GetIncludeListFromCurrentBuffer	omni/cpp/includes.vim	/^function! s:GetIncludeListFromCurrentBuffer()$/;"	f
+GetIncludeListFromFile	omni/cpp/includes.vim	/^function! s:GetIncludeListFromFile(szFilePath, bUpdate) $/;"	f
+GetNamespaceAliasListFromLine	omni/cpp/namespaces.vim	/^function! s:GetNamespaceAliasListFromLine(szLine)$/;"	f
+GetNamespaceAliasMap	omni/cpp/namespaces.vim	/^function! s:GetNamespaceAliasMap()$/;"	f
+GetNamespaceListFromLine	omni/cpp/namespaces.vim	/^function! s:GetNamespaceListFromLine(szLine)$/;"	f
+GetStopPositionForLocalSearch	omni/cpp/namespaces.vim	/^function! s:GetStopPositionForLocalSearch()$/;"	f
+GetSymbol	omni/cpp/items.vim	/^function! s:GetSymbol(tokens)$/;"	f
+GetTagOfSameScope	omni/cpp/utils.vim	/^function! s:GetTagOfSameScope(listTags, szScopeToMatch)$/;"	f
+GetTypeInfoOfReturnedType	omni/cpp/items.vim	/^function! s:GetTypeInfoOfReturnedType(contextStack, szFunctionName)$/;"	f
+GetTypeInfoOfVariable	omni/cpp/items.vim	/^function! s:GetTypeInfoOfVariable(contextStack, szVariable, bSearchDecl)$/;"	f
+GetUsingNamespaceListFromMap	omni/cpp/namespaces.vim	/^function! s:GetUsingNamespaceListFromMap(namespaceMap, ...)$/;"	f
+HIGH_PRIORITY_CLASS	conque_term/conque_win32_util.py	/^HIGH_PRIORITY_CLASS = 0x00000080$/;"	v
+HasATagFileOrTagEnvChanged	omni/cpp/complete.vim	/^function! s:HasATagFileOrTagEnvChanged()$/;"	f
+HasTagEnvChanged	omni/cpp/complete.vim	/^function! s:HasTagEnvChanged()$/;"	f
+IDLE_PRIORITY_CLASS	conque_term/conque_win32_util.py	/^IDLE_PRIORITY_CLASS = 0x00000040$/;"	v
+INHERIT_PARENT_AFFINITY	conque_term/conque_win32_util.py	/^INHERIT_PARENT_AFFINITY = 0x00010000$/;"	v
+INPUT_RECORD	conque_term/conque_win32_util.py	/^class INPUT_RECORD(Structure): # {{{$/;"	c	inherits:Structure
+INPUT_UNION	conque_term/conque_win32_util.py	/^class INPUT_UNION(Union): # {{{$/;"	c	inherits:Union
+InitComplete	omni/cpp/complete.vim	/^function! s:InitComplete()$/;"	f
+IsCached	omni/cpp/complete.vim	/^function! s:IsCached(cache, szKey1, szKey2)$/;"	f
+IsTypeInfoResolved	omni/cpp/utils.vim	/^function! s:IsTypeInfoResolved(szTypeInfo)$/;"	f
+IsUnnamedType	omni/cpp/items.vim	/^function! s:IsUnnamedType(tagItem)$/;"	f
+KEY_EVENT	conque_term/conque_win32_util.py	/^KEY_EVENT = 0x0001$/;"	v
+KEY_EVENT_RECORD	conque_term/conque_win32_util.py	/^class KEY_EVENT_RECORD(Structure): # {{{$/;"	c	inherits:Structure
+LEFT_ALT_PRESSED	conque_term/conque_win32_util.py	/^LEFT_ALT_PRESSED = 0x0002$/;"	v
+LEFT_CTRL_PRESSED	conque_term/conque_win32_util.py	/^LEFT_CTRL_PRESSED = 0x0008$/;"	v
+LPBYTE	conque_term/conque_win32_util.py	/^LPBYTE = POINTER(c_ubyte)$/;"	v
+LPTSTR	conque_term/conque_win32_util.py	/^LPTSTR = POINTER(c_char)$/;"	v
+LocalSearchDecl	omni/cpp/items.vim	/^function! s:LocalSearchDecl(name)$/;"	f
+MEMORY_BASIC_INFORMATION	conque_term/conque_win32_util.py	/^class MEMORY_BASIC_INFORMATION(Structure): # {{{$/;"	c	inherits:Structure
+MENU_EVENT	conque_term/conque_win32_util.py	/^MENU_EVENT = 0x0008$/;"	v
+MENU_EVENT_RECORD	conque_term/conque_win32_util.py	/^class MENU_EVENT_RECORD(Structure): # {{{$/;"	c	inherits:Structure
+MOUSE_EVENT	conque_term/conque_win32_util.py	/^MOUSE_EVENT = 0x0002$/;"	v
+MOUSE_EVENT_RECORD	conque_term/conque_win32_util.py	/^class MOUSE_EVENT_RECORD(Structure): # {{{$/;"	c	inherits:Structure
+MRU	MRU.vim	/^aug MRU$/;"	a
+MRUAdd	MRU.vim	/^fu! s:MRUAdd(f) "{{{$/;"	f
+MRUDestroy	MRU.vim	/^fu! MRUDestroy() " must be global :( {{{$/;"	f
+MRURefresh	MRU.vim	/^fu! MRURefresh() " must be global :( {{{$/;"	f
+NORMAL_PRIORITY_CLASS	conque_term/conque_win32_util.py	/^NORMAL_PRIORITY_CLASS = 0x00000020$/;"	v
+NUMLOCK_ON	conque_term/conque_win32_util.py	/^NUMLOCK_ON = 0x0020$/;"	v
+OpenFile	MRU.vim	/^  fu! OpenFile()$/;"	f
+PROCESS_CREATE_PROCESS	conque_term/conque_win32_util.py	/^PROCESS_CREATE_PROCESS = 0x0080$/;"	v
+PROCESS_CREATE_THREAD	conque_term/conque_win32_util.py	/^PROCESS_CREATE_THREAD = 0x0002$/;"	v
+PROCESS_DUP_HANDLE	conque_term/conque_win32_util.py	/^PROCESS_DUP_HANDLE = 0x0040$/;"	v
+PROCESS_INFORMATION	conque_term/conque_win32_util.py	/^class PROCESS_INFORMATION(Structure): # {{{$/;"	c	inherits:Structure
+PROCESS_QUERY_INFORMATION	conque_term/conque_win32_util.py	/^PROCESS_QUERY_INFORMATION = 0x0400$/;"	v
+PROCESS_QUERY_LIMITED_INFORMATION	conque_term/conque_win32_util.py	/^PROCESS_QUERY_LIMITED_INFORMATION = 0x1000$/;"	v
+PROCESS_SET_INFORMATION	conque_term/conque_win32_util.py	/^PROCESS_SET_INFORMATION = 0x0200$/;"	v
+PROCESS_SET_QUOTA	conque_term/conque_win32_util.py	/^PROCESS_SET_QUOTA = 0x0100$/;"	v
+PROCESS_SUSPEND_RESUME	conque_term/conque_win32_util.py	/^PROCESS_SUSPEND_RESUME = 0x0800$/;"	v
+PROCESS_TERMINATE	conque_term/conque_win32_util.py	/^PROCESS_TERMINATE = 0x0001$/;"	v
+PROCESS_VM_OPERATION	conque_term/conque_win32_util.py	/^PROCESS_VM_OPERATION = 0x0008$/;"	v
+PROCESS_VM_READ	conque_term/conque_win32_util.py	/^PROCESS_VM_READ = 0x0010$/;"	v
+PROCESS_VM_WRITE	conque_term/conque_win32_util.py	/^PROCESS_VM_WRITE = 0x0020$/;"	v
+REALTIME_PRIORITY_CLASS	conque_term/conque_win32_util.py	/^REALTIME_PRIORITY_CLASS = 0x00000100$/;"	v
+RIGHT_ALT_PRESSED	conque_term/conque_win32_util.py	/^RIGHT_ALT_PRESSED = 0x0001$/;"	v
+RIGHT_CTRL_PRESSED	conque_term/conque_win32_util.py	/^RIGHT_CTRL_PRESSED = 0x0004$/;"	v
+RemoveCComments	omni/cpp/utils.vim	/^function! s:RemoveCComments(szLine)$/;"	f
+ResolveAliasInNamespaceList	omni/cpp/namespaces.vim	/^function! s:ResolveAliasInNamespaceList(mapNamespaceAlias, listNamespaces)$/;"	f
+ResolveAliasKey	omni/cpp/namespaces.vim	/^function! s:ResolveAliasKey(mapNamespaceAlias, szAlias)$/;"	f
+ResolveAliasKeys	omni/cpp/namespaces.vim	/^function! s:ResolveAliasKeys(mapNamespaceAlias)$/;"	f
+ResolveCCast	omni/cpp/items.vim	/^function! s:ResolveCCast(tokens)$/;"	f
+ResolveCast	omni/cpp/items.vim	/^function! s:ResolveCast(tokens, startChar, endChar)$/;"	f
+ResolveCppCast	omni/cpp/items.vim	/^function! s:ResolveCppCast(tokens)$/;"	f
+ResolveNamespace	omni/cpp/namespaces.vim	/^function! s:ResolveNamespace(namespace, mapCurrentContexts)$/;"	f
+ResolveSymbol	omni/cpp/items.vim	/^function! s:ResolveSymbol(contextStack, szSymbol, szTagFilter)$/;"	f
+SCROLLLOCK_ON	conque_term/conque_win32_util.py	/^SCROLLLOCK_ON = 0x0040$/;"	v
+SECURITY_ATTRIBUTES	conque_term/conque_win32_util.py	/^class SECURITY_ATTRIBUTES(Structure): # {{{$/;"	c	inherits:Structure
+SHIFT_PRESSED	conque_term/conque_win32_util.py	/^SHIFT_PRESSED = 0x0010$/;"	v
+SMALL_RECT	conque_term/conque_win32_util.py	/^class SMALL_RECT(Structure): # {{{$/;"	c	inherits:Structure
+STARTF_FORCEOFFFEEDBACK	conque_term/conque_win32_util.py	/^STARTF_FORCEOFFFEEDBACK = 0x00000080$/;"	v
+STARTF_FORCEONFEEDBACK	conque_term/conque_win32_util.py	/^STARTF_FORCEONFEEDBACK = 0x00000040$/;"	v
+STARTF_PREVENTPINNING	conque_term/conque_win32_util.py	/^STARTF_PREVENTPINNING = 0x00002000$/;"	v
+STARTF_RUNFULLSCREEN	conque_term/conque_win32_util.py	/^STARTF_RUNFULLSCREEN = 0x00000020$/;"	v
+STARTF_TITLEISAPPID	conque_term/conque_win32_util.py	/^STARTF_TITLEISAPPID = 0x00001000$/;"	v
+STARTF_TITLEISLINKNAME	conque_term/conque_win32_util.py	/^STARTF_TITLEISLINKNAME = 0x00000800$/;"	v
+STARTF_USECOUNTCHARS	conque_term/conque_win32_util.py	/^STARTF_USECOUNTCHARS = 0x00000008$/;"	v
+STARTF_USEFILLATTRIBUTE	conque_term/conque_win32_util.py	/^STARTF_USEFILLATTRIBUTE = 0x00000010$/;"	v
+STARTF_USEHOTKEY	conque_term/conque_win32_util.py	/^STARTF_USEHOTKEY = 0x00000200$/;"	v
+STARTF_USEPOSITION	conque_term/conque_win32_util.py	/^STARTF_USEPOSITION = 0x00000004$/;"	v
+STARTF_USESHOWWINDOW	conque_term/conque_win32_util.py	/^STARTF_USESHOWWINDOW = 0x00000001$/;"	v
+STARTF_USESIZE	conque_term/conque_win32_util.py	/^STARTF_USESIZE = 0x00000002$/;"	v
+STARTF_USESTDHANDLES	conque_term/conque_win32_util.py	/^STARTF_USESTDHANDLES = 0x00000100$/;"	v
+STARTUPINFO	conque_term/conque_win32_util.py	/^class STARTUPINFO(Structure): # {{{$/;"	c	inherits:Structure
+STD_ERROR_HANDLE	conque_term/conque_win32_util.py	/^STD_ERROR_HANDLE = c_ulong(-12)$/;"	v
+STD_INPUT_HANDLE	conque_term/conque_win32_util.py	/^STD_INPUT_HANDLE = c_ulong(-10)$/;"	v
+STD_OUTPUT_HANDLE	conque_term/conque_win32_util.py	/^STD_OUTPUT_HANDLE = c_ulong(-11)$/;"	v
+SW_FORCEMINIMIZE	conque_term/conque_win32_util.py	/^SW_FORCEMINIMIZE = 11$/;"	v
+SW_HIDE	conque_term/conque_win32_util.py	/^SW_HIDE = 0$/;"	v
+SW_MAXIMIZE	conque_term/conque_win32_util.py	/^SW_MAXIMIZE = 3$/;"	v
+SW_MINIMIZE	conque_term/conque_win32_util.py	/^SW_MINIMIZE = 6$/;"	v
+SW_RESTORE	conque_term/conque_win32_util.py	/^SW_RESTORE = 9$/;"	v
+SW_SHOW	conque_term/conque_win32_util.py	/^SW_SHOW = 5$/;"	v
+SW_SHOWDEFAULT	conque_term/conque_win32_util.py	/^SW_SHOWDEFAULT = 10$/;"	v
+SW_SHOWMAXIMIZED	conque_term/conque_win32_util.py	/^SW_SHOWMAXIMIZED = 3$/;"	v
+SW_SHOWMINIMIZED	conque_term/conque_win32_util.py	/^SW_SHOWMINIMIZED = 2$/;"	v
+SW_SHOWMINNOACTIVE	conque_term/conque_win32_util.py	/^SW_SHOWMINNOACTIVE = 7$/;"	v
+SW_SHOWNA	conque_term/conque_win32_util.py	/^SW_SHOWNA = 8$/;"	v
+SW_SHOWNOACTIVATE	conque_term/conque_win32_util.py	/^SW_SHOWNOACTIVATE = 4$/;"	v
+SW_SHOWNORMAL	conque_term/conque_win32_util.py	/^SW_SHOWNORMAL = 1$/;"	v
+SearchDecl	omni/cpp/items.vim	/^function! s:SearchDecl(szVariable)$/;"	f
+SearchGlobalMembers	omni/cpp/complete.vim	/^function! s:SearchGlobalMembers(szBase)$/;"	f
+SearchMembers	omni/cpp/complete.vim	/^function! s:SearchMembers(resolvedTagItem, szBase)$/;"	f
+SearchTypeInfoOfDecl	omni/cpp/items.vim	/^function! s:SearchTypeInfoOfDecl(szVariable)$/;"	f
+SendAll	MRU.vim	/^fu! s:SendAll(what) "{{{$/;"	f
+SpWhenModified	MRU.vim	/^  fu! SpWhenModified(f) "splits only when curr buf is modified$/;"	f
+SpWhenNamedOrModified	MRU.vim	/^  fu! SpWhenNamedOrModified(f) "splits, when curr buf has name, or is modified$/;"	f
+TERMINATOR	conque_term/conque_sole_shared_memory.py	/^    TERMINATOR = None$/;"	v	class:ConqueSoleSharedMemory
+TagPopupList	omni/cpp/complete.vim	/^function! s:TagPopupList(szTypeName, szBase)$/;"	f
+TokensToString	omni/cpp/items.vim	/^function! s:TokensToString(tokens)$/;"	f
+TruncPath	MRU.vim	/^  fu! TruncPath(path)$/;"	f
+WINDOW_BUFFER_SIZE_EVENT	conque_term/conque_win32_util.py	/^WINDOW_BUFFER_SIZE_EVENT = 0x0004$/;"	v
+WINDOW_BUFFER_SIZE_RECORD	conque_term/conque_win32_util.py	/^class WINDOW_BUFFER_SIZE_RECORD(Structure): # {{{$/;"	c	inherits:Structure
+__delitem__	conque_term/conque_screen.py	/^    def __delitem__(self, key): # {{{$/;"	m	class:ConqueScreen	file:	access:private
+__getitem__	conque_term/conque_screen.py	/^    def __getitem__(self, key): # {{{$/;"	m	class:ConqueScreen	file:	access:private
+__init__	conque_term/conque.py	/^    def __init__(self): # {{{$/;"	m	class:Conque	access:public
+__init__	conque_term/conque_screen.py	/^    def __init__(self): # {{{$/;"	m	class:ConqueScreen	access:public
+__init__	conque_term/conque_sole_shared_memory.py	/^    def __init__(self, mem_size, mem_type, mem_key, fixed_length=False, fill_char=' ', serialize=False, encoding='ascii'): # {{{$/;"	m	class:ConqueSoleSharedMemory	access:public
+__init__	conque_term/conque_sole_subprocess.py	/^    def __init__(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+__init__	conque_term/conque_sole_wrapper.py	/^    def __init__(self): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+__init__	conque_term/conque_subprocess.py	/^    def __init__(self): # {{{$/;"	m	class:ConqueSubprocess	access:public
+__len__	conque_term/conque_screen.py	/^    def __len__(self): # {{{$/;"	m	class:ConqueScreen	file:	access:private
+__setitem__	conque_term/conque_screen.py	/^    def __setitem__(self, key, value): # {{{$/;"	m	class:ConqueScreen	file:	access:private
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("BaseAddress",       c_void_p),$/;"	v	class:MEMORY_BASIC_INFORMATION
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("Char", CHAR_UNION),$/;"	v	class:CHAR_INFO
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("EventType", c_short),$/;"	v	class:INPUT_RECORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("KeyEvent", KEY_EVENT_RECORD),$/;"	v	class:INPUT_UNION
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("Left", c_short),$/;"	v	class:SMALL_RECT
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("Length", c_ulong),$/;"	v	class:SECURITY_ATTRIBUTES
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("UnicodeChar", c_wchar),$/;"	v	class:CHAR_UNION
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("X", c_short),$/;"	v	class:COORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("bKeyDown", c_byte),$/;"	v	class:KEY_EVENT_RECORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("bSetFocus", c_byte)]$/;"	v	class:FOCUS_EVENT_RECORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("cb",            c_ulong),$/;"	v	class:STARTUPINFO
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("dwCommandId", c_uint)]$/;"	v	class:MENU_EVENT_RECORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("dwMousePosition", COORD),$/;"	v	class:MOUSE_EVENT_RECORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("dwSize", COORD),$/;"	v	class:CONSOLE_SCREEN_BUFFER_INFO
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("dwSize", COORD)]$/;"	v	class:WINDOW_BUFFER_SIZE_RECORD
+_fields_	conque_term/conque_win32_util.py	/^    _fields_ = [("hProcess",    c_void_p),$/;"	v	class:PROCESS_INFORMATION
+abort	conque_term/conque.py	/^    def abort(self):$/;"	m	class:Conque	access:public
+abort	conque_term/conque_sole.py	/^    def abort(self):$/;"	m	class:ConqueSole	access:public
+absolute_coords	conque_term/conque.py	/^    absolute_coords = True$/;"	v	class:Conque
+add_conceal_color	conque_term/conque_sole.py	/^    def add_conceal_color(self, text, attributes, stats, line_nr): # {{{$/;"	m	class:ConqueSole	access:public
+align	conque_term/conque_screen.py	/^    def align(self): # {{{$/;"	m	class:ConqueScreen	access:public
+append	conque_term/conque_screen.py	/^    def append(self, value): # {{{$/;"	m	class:ConqueScreen	access:public
+apply_color	conque_term/conque.py	/^    def apply_color(self, start, end, line=0):$/;"	m	class:Conque	access:public
+attribute_cache	conque_term/conque_sole_subprocess.py	/^    attribute_cache = {}$/;"	v	class:ConqueSoleSubprocess
+attributes	conque_term/conque_sole_subprocess.py	/^    attributes = []$/;"	v	class:ConqueSoleSubprocess
+auto_read	conque_term/conque.py	/^    def auto_read(self): # {{{$/;"	m	class:Conque	access:public
+autowrap	conque_term/conque.py	/^    autowrap = True$/;"	v	class:Conque
+bottom	conque_term/conque.py	/^    bottom = 24 # relative to top of screen$/;"	v	class:Conque
+bound	conque_term/conque.py	/^    def bound(self, val, min, max): # {{{$/;"	m	class:Conque	access:public
+bucket	conque_term/conque_sole_wrapper.py	/^    bucket = None$/;"	v	class:ConqueSoleWrapper
+buffer	conque_term/conque_screen.py	/^    buffer = None$/;"	v	class:ConqueScreen
+buffer	conque_term/conque_sole.py	/^    buffer = None$/;"	v	class:ConqueSole
+buffer_height	conque_term/conque_sole_subprocess.py	/^    buffer_height = 100$/;"	v	class:ConqueSoleSubprocess
+buffer_redraw_ct	conque_term/conque_sole.py	/^    buffer_redraw_ct = 0$/;"	v	class:ConqueSole
+buffer_width	conque_term/conque_sole_subprocess.py	/^    buffer_width = 160$/;"	v	class:ConqueSoleSubprocess
+c	conque_term/conque.py	/^    c = 1 # current cursor column$/;"	v	class:Conque
+change_title	conque_term/conque.py	/^    def change_title(self, key, val):$/;"	m	class:Conque	access:public
+character_set	conque_term/conque.py	/^    character_set = 'ascii'$/;"	v	class:Conque
+charset_graphics	conque_term/conque.py	/^    def charset_graphics(self):$/;"	m	class:Conque	access:public
+charset_uk	conque_term/conque.py	/^    def charset_uk(self):$/;"	m	class:Conque	access:public
+charset_us	conque_term/conque.py	/^    def charset_us(self):$/;"	m	class:Conque	access:public
+check_commands	conque_term/conque_sole_subprocess.py	/^    def check_commands(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+clear	conque_term/conque_screen.py	/^    def clear(self): # {{{$/;"	m	class:ConqueScreen	access:public
+clear	conque_term/conque_sole_shared_memory.py	/^    def clear(self, start=0): # {{{$/;"	m	class:ConqueSoleSharedMemory	access:public
+close	conque_term/conque.py	/^    def close(self):$/;"	m	class:Conque	access:public
+close	conque_term/conque_sole.py	/^    def close(self):$/;"	m	class:ConqueSole	access:public
+close	conque_term/conque_sole_shared_memory.py	/^    def close(self):$/;"	m	class:ConqueSoleSharedMemory	access:public
+close	conque_term/conque_sole_subprocess.py	/^    def close(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+close	conque_term/conque_sole_wrapper.py	/^    def close(self): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+close	conque_term/conque_subprocess.py	/^    def close(self): # {{{$/;"	m	class:ConqueSubprocess	access:public
+close_pid	conque_term/conque_sole_subprocess.py	/^    def close_pid(self, pid):$/;"	m	class:ConqueSoleSubprocess	access:public
+cmd	conque_term/conque_sole_communicator.py	/^                cmd = shm_command.read()$/;"	v
+cmd	conque_term/conque_sole_communicator.py	/^        cmd = shm_command.read()$/;"	v
+cmd_line	conque_term/conque_sole_communicator.py	/^        cmd_line = " ".join(sys.argv[4:])$/;"	v
+color_cache	conque_term/conque_sole.py	/^    color_cache = {}$/;"	v	class:ConqueSole
+color_changes	conque_term/conque.py	/^    color_changes = {}$/;"	v	class:Conque
+color_conceals	conque_term/conque_sole.py	/^    color_conceals = {}$/;"	v	class:ConqueSole
+color_history	conque_term/conque.py	/^    color_history = {}$/;"	v	class:Conque
+color_mode	conque_term/conque_sole.py	/^    color_mode = None$/;"	v	class:ConqueSole
+columns	conque_term/conque.py	/^    columns = 80 # same as $COLUMNS$/;"	v	class:Conque
+columns	conque_term/conque_sole_wrapper.py	/^    columns = 80$/;"	v	class:ConqueSoleWrapper
+conque_term#bell	conque_term.vim	/^function! conque_term#bell() " {{{$/;"	f
+conque_term#close_all	conque_term.vim	/^function! conque_term#close_all() "{{{$/;"	f
+conque_term#create_terminal_object	conque_term.vim	/^function! conque_term#create_terminal_object(...) " {{{$/;"	f
+conque_term#dependency_check	conque_term.vim	/^function! conque_term#dependency_check() " {{{$/;"	f
+conque_term#fail	conque_term.vim	/^function! conque_term#fail(feature) " {{{$/;"	f
+conque_term#find_python_exe	conque_term.vim	/^function! conque_term#find_python_exe() " {{{$/;"	f
+conque_term#get_instance	conque_term.vim	/^function! conque_term#get_instance(...) " {{{$/;"	f
+conque_term#imap	conque_term.vim	/^function! conque_term#imap(map_from, map_to) " {{{$/;"	f
+conque_term#imap_list	conque_term.vim	/^function! conque_term#imap_list(map_list) " {{{$/;"	f
+conque_term#init	conque_term.vim	/^function! conque_term#init() " {{{$/;"	f
+conque_term#init_conceal_color	conque_term.vim	/^function! conque_term#init_conceal_color() " {{{$/;"	f
+conque_term#load_python	conque_term.vim	/^function! conque_term#load_python() " {{{$/;"	f
+conque_term#on_blur	conque_term.vim	/^function! conque_term#on_blur() " {{{$/;"	f
+conque_term#on_focus	conque_term.vim	/^function! conque_term#on_focus(...) " {{{$/;"	f
+conque_term#open	conque_term.vim	/^function! conque_term#open(...) "{{{$/;"	f
+conque_term#python_escape	conque_term.vim	/^function! conque_term#python_escape(input) "{{{$/;"	f
+conque_term#read_all	conque_term.vim	/^function! conque_term#read_all(insert_mode) "{{{$/;"	f
+conque_term#send_selected	conque_term.vim	/^function! conque_term#send_selected(type) "{{{$/;"	f
+conque_term#set_buffer_settings	conque_term.vim	/^function! conque_term#set_buffer_settings(command, pre_hooks) "{{{$/;"	f
+conque_term#set_mappings	conque_term.vim	/^function! conque_term#set_mappings(action) "{{{$/;"	f
+conque_term#subprocess	conque_term.vim	/^function! conque_term#subprocess(command) " {{{$/;"	f
+console_height	conque_term/conque_sole_communicator.py	/^        console_height = int(sys.argv[3])$/;"	v
+console_width	conque_term/conque_sole_communicator.py	/^        console_width = int(sys.argv[2])$/;"	v
+create	conque_term/conque_sole_shared_memory.py	/^    def create(self, access='write'): # {{{$/;"	m	class:ConqueSoleSharedMemory	access:public
+csi_add_spaces	conque_term/conque.py	/^    def csi_add_spaces(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_clear_line	conque_term/conque.py	/^    def csi_clear_line(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_clear_screen	conque_term/conque.py	/^    def csi_clear_screen(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_cursor	conque_term/conque.py	/^    def csi_cursor(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_cursor_down	conque_term/conque.py	/^    def csi_cursor_down(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_cursor_left	conque_term/conque.py	/^    def csi_cursor_left(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_cursor_right	conque_term/conque.py	/^    def csi_cursor_right(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_cursor_to_column	conque_term/conque.py	/^    def csi_cursor_to_column(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_cursor_up	conque_term/conque.py	/^    def csi_cursor_up(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_delete_chars	conque_term/conque.py	/^    def csi_delete_chars(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_font	conque_term/conque.py	/^    def csi_font(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_reset	conque_term/conque.py	/^    def csi_reset(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_set	conque_term/conque.py	/^    def csi_set(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_set_coords	conque_term/conque.py	/^    def csi_set_coords(self, csi): # {{{$/;"	m	class:Conque	access:public
+csi_tab_clear	conque_term/conque.py	/^    def csi_tab_clear(self, csi): # {{{$/;"	m	class:Conque	access:public
+ctl_bel	conque_term/conque.py	/^    def ctl_bel(self):$/;"	m	class:Conque	access:public
+ctl_bs	conque_term/conque.py	/^    def ctl_bs(self):$/;"	m	class:Conque	access:public
+ctl_cr	conque_term/conque.py	/^    def ctl_cr(self):$/;"	m	class:Conque	access:public
+ctl_nl	conque_term/conque.py	/^    def ctl_nl(self):$/;"	m	class:Conque	access:public
+ctl_si	conque_term/conque.py	/^    def ctl_si(self):$/;"	m	class:Conque	access:public
+ctl_so	conque_term/conque.py	/^    def ctl_so(self):$/;"	m	class:Conque	access:public
+ctl_soh	conque_term/conque.py	/^    def ctl_soh(self):$/;"	m	class:Conque	access:public
+ctl_stx	conque_term/conque.py	/^    def ctl_stx(self):$/;"	m	class:Conque	access:public
+ctl_tab	conque_term/conque.py	/^    def ctl_tab(self):$/;"	m	class:Conque	access:public
+ctypes	conque_term/conque_sole_subprocess.py	/^import ctypes$/;"	i
+ctypes	conque_term/conque_sole_wrapper.py	/^import ctypes$/;"	i
+cursor_col	conque_term/conque_sole_subprocess.py	/^    cursor_col = 0$/;"	v	class:ConqueSoleSubprocess
+cursor_line	conque_term/conque_sole_subprocess.py	/^    cursor_line = 0$/;"	v	class:ConqueSoleSubprocess
+cursor_set	conque_term/conque.py	/^    cursor_set = False$/;"	v	class:Conque
+data	conque_term/conque_sole_subprocess.py	/^    data = []$/;"	v	class:ConqueSoleSubprocess
+default_attribute	conque_term/conque_sole_subprocess.py	/^    default_attribute = 7$/;"	v	class:ConqueSoleSubprocess
+do_color	conque_term/conque_sole.py	/^    def do_color(self, start=0, end=0, attributes='', stats=None): # {{{$/;"	m	class:ConqueSole	access:public
+enable_colors	conque_term/conque.py	/^    enable_colors = True$/;"	v	class:Conque
+encoding	conque_term/conque_sole_shared_memory.py	/^    encoding = 'ascii'$/;"	v	class:ConqueSoleSharedMemory
+esc_next_line	conque_term/conque.py	/^    def esc_next_line(self): # {{{$/;"	m	class:Conque	access:public
+esc_scroll_down	conque_term/conque.py	/^    def esc_scroll_down(self): # {{{$/;"	m	class:Conque	access:public
+esc_scroll_up	conque_term/conque.py	/^    def esc_scroll_up(self): # {{{$/;"	m	class:Conque	access:public
+esc_set_tab	conque_term/conque.py	/^    def esc_set_tab(self): # {{{$/;"	m	class:Conque	access:public
+exec_highlight	conque_term/conque.py	/^    def exec_highlight(self, real_line, start, end, highlight):$/;"	m	class:Conque	access:public
+fcntl	conque_term/conque_subprocess.py	/^    import fcntl$/;"	i
+fd	conque_term/conque_subprocess.py	/^    fd = None$/;"	v	class:ConqueSubprocess
+fill_char	conque_term/conque_sole_shared_memory.py	/^    fill_char = ' '$/;"	v	class:ConqueSoleSharedMemory
+fixed_length	conque_term/conque_sole_shared_memory.py	/^    fixed_length = False$/;"	v	class:ConqueSoleSharedMemory
+g:omni#cpp#includes#CACHE_FILE_TIME	omni/cpp/includes.vim	/^let g:omni#cpp#includes#CACHE_FILE_TIME = {}$/;"	v
+g:omni#cpp#includes#CACHE_INCLUDES	omni/cpp/includes.vim	/^let g:omni#cpp#includes#CACHE_INCLUDES = {}$/;"	v
+g:omni#cpp#namespaces#CacheResolve	omni/cpp/namespaces.vim	/^let g:omni#cpp#namespaces#CacheResolve = {}$/;"	v
+g:omni#cpp#namespaces#CacheUsing	omni/cpp/namespaces.vim	/^let g:omni#cpp#namespaces#CacheUsing = {}$/;"	v
+g:omni#cpp#utils#CACHE_TAG_INHERITS	omni/cpp/utils.vim	/^let g:omni#cpp#utils#CACHE_TAG_INHERITS = {}$/;"	v
+g:omni#cpp#utils#szFilterGlobalScope	omni/cpp/utils.vim	/^let g:omni#cpp#utils#szFilterGlobalScope .= "&& (!has_key(v:val, 'enum') || (has_key(v:val, 'enum') && v:val.enum =~ '^\\\\w\\\\+$')))"$/;"	v
+g:omni#cpp#utils#szFilterGlobalScope	omni/cpp/utils.vim	/^let g:omni#cpp#utils#szFilterGlobalScope = "(!has_key(v:val, 'class') && !has_key(v:val, 'struct') && !has_key(v:val, 'union') && !has_key(v:val, 'namespace')"$/;"	v
+get_buffer_info	conque_term/conque_sole_subprocess.py	/^    def get_buffer_info(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+get_new_output	conque_term/conque_sole.py	/^    def get_new_output(self, lines, update_top, stats): # {{{$/;"	m	class:ConqueSole	access:public
+get_real_idx	conque_term/conque_screen.py	/^    def get_real_idx(self, line): # {{{$/;"	m	class:ConqueScreen	access:public
+get_real_line	conque_term/conque_screen.py	/^    def get_real_line(self, line): # {{{$/;"	m	class:ConqueScreen	access:public
+get_screen_text	conque_term/conque_sole_subprocess.py	/^    def get_screen_text(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+get_stats	conque_term/conque_sole_wrapper.py	/^    def get_stats(self): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+get_top	conque_term/conque_screen.py	/^    def get_top(self): # {{{$/;"	m	class:ConqueScreen	access:public
+handle	conque_term/conque_sole_subprocess.py	/^    handle = None$/;"	v	class:ConqueSoleSubprocess
+handle	conque_term/conque_sole_wrapper.py	/^    handle = None$/;"	v	class:ConqueSoleWrapper
+hash_screen_alignment_test	conque_term/conque.py	/^    def hash_screen_alignment_test(self): # {{{$/;"	m	class:Conque	access:public
+idle	conque_term/conque.py	/^    def idle(self):$/;"	m	class:Conque	access:public
+idle	conque_term/conque_sole.py	/^    def idle(self): # {{{$/;"	m	class:ConqueSole	access:public
+idle	conque_term/conque_sole_wrapper.py	/^    def idle(self): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+idle_sleep_time	conque_term/conque_sole_communicator.py	/^        idle_sleep_time = 0.10$/;"	v
+init_shared_memory	conque_term/conque_sole_subprocess.py	/^    def init_shared_memory(self, mem_key): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+init_shared_memory	conque_term/conque_sole_wrapper.py	/^    def init_shared_memory(self, mem_key): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+init_tabstops	conque_term/conque.py	/^    def init_tabstops(self):$/;"	m	class:Conque	access:public
+insert	conque_term/conque_screen.py	/^    def insert(self, line, value): # {{{$/;"	m	class:ConqueScreen	access:public
+insert_enter	conque_term/conque.py	/^    def insert_enter(self):$/;"	m	class:Conque	access:public
+is_alive	conque_term/conque_sole_subprocess.py	/^    def is_alive(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+is_alive	conque_term/conque_sole_subprocess.py	/^    is_alive = True$/;"	v	class:ConqueSoleSubprocess
+is_alive	conque_term/conque_sole_wrapper.py	/^    def is_alive(self): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+is_alive	conque_term/conque_subprocess.py	/^    def is_alive(self): #{{{$/;"	m	class:ConqueSubprocess	access:public
+is_idle	conque_term/conque_sole_communicator.py	/^                        is_idle = False$/;"	v
+is_idle	conque_term/conque_sole_communicator.py	/^                        is_idle = True$/;"	v
+is_idle	conque_term/conque_sole_communicator.py	/^                is_idle = True$/;"	v
+is_idle	conque_term/conque_sole_communicator.py	/^        is_idle = False$/;"	v
+l	conque_term/conque.py	/^    l = 1 # current cursor line$/;"	v	class:Conque
+line_offset	conque_term/conque_sole_subprocess.py	/^    line_offset = 0$/;"	v	class:ConqueSoleSubprocess
+lines	conque_term/conque.py	/^    lines = 24 # same as $LINES$/;"	v	class:Conque
+lines	conque_term/conque_sole_wrapper.py	/^    lines = 24$/;"	v	class:ConqueSoleWrapper
+loops	conque_term/conque_sole_communicator.py	/^        loops = 0$/;"	v
+math	conque_term/conque.py	/^import math$/;"	i
+max_loops	conque_term/conque_sole_communicator.py	/^        max_loops = 0$/;"	v
+mem_key	conque_term/conque_sole_communicator.py	/^        mem_key = sys.argv[1]$/;"	v
+mem_key	conque_term/conque_sole_shared_memory.py	/^    mem_key = None$/;"	v	class:ConqueSoleSharedMemory
+mem_redraw_ct	conque_term/conque_sole_subprocess.py	/^    mem_redraw_ct = 0$/;"	v	class:ConqueSoleSubprocess
+mem_size	conque_term/conque_sole_shared_memory.py	/^    mem_size = None$/;"	v	class:ConqueSoleSharedMemory
+mem_type	conque_term/conque_sole_shared_memory.py	/^    mem_type = None$/;"	v	class:ConqueSoleSharedMemory
+mmap	conque_term/conque_sole_shared_memory.py	/^import mmap$/;"	i
+omni#common#debug#End	omni/common/debug.vim	/^function! omni#common#debug#End()$/;"	f
+omni#common#debug#Start	omni/common/debug.vim	/^function! omni#common#debug#Start()$/;"	f
+omni#common#debug#Trace	omni/common/debug.vim	/^function! omni#common#debug#Trace(szFuncName, ...)$/;"	f
+omni#common#utils#CompareNumber	omni/common/utils.vim	/^function! omni#common#utils#CompareNumber(i1, i2)$/;"	f
+omni#common#utils#GetWordUnderCursor	omni/common/utils.vim	/^function! omni#common#utils#GetWordUnderCursor()$/;"	f
+omni#common#utils#TagList	omni/common/utils.vim	/^function! omni#common#utils#TagList(szTagQuery)$/;"	f
+omni#common#utils#TagListNoThrow	omni/common/utils.vim	/^function! omni#common#utils#TagListNoThrow(szTagQuery)$/;"	f
+omni#cpp#complete#Init	omni/cpp/complete.vim	/^function! omni#cpp#complete#Init()$/;"	f
+omni#cpp#complete#Main	omni/cpp/complete.vim	/^function! omni#cpp#complete#Main(findstart, base)$/;"	f
+omni#cpp#includes#Display	omni/cpp/includes.vim	/^function! omni#cpp#includes#Display()$/;"	f
+omni#cpp#includes#GetList	omni/cpp/includes.vim	/^function! omni#cpp#includes#GetList(...)$/;"	f
+omni#cpp#items#Get	omni/cpp/items.vim	/^function! omni#cpp#items#Get(tokens, ...)$/;"	f
+omni#cpp#items#ResolveItemsTypeInfo	omni/cpp/items.vim	/^function! omni#cpp#items#ResolveItemsTypeInfo(contextStack, items)$/;"	f
+omni#cpp#maycomplete#Arrow	omni/cpp/maycomplete.vim	/^function! omni#cpp#maycomplete#Arrow()$/;"	f
+omni#cpp#maycomplete#Complete	omni/cpp/maycomplete.vim	/^function! omni#cpp#maycomplete#Complete()$/;"	f
+omni#cpp#maycomplete#Dot	omni/cpp/maycomplete.vim	/^function! omni#cpp#maycomplete#Dot()$/;"	f
+omni#cpp#maycomplete#Scope	omni/cpp/maycomplete.vim	/^function! omni#cpp#maycomplete#Scope()$/;"	f
+omni#cpp#namespaces#GetContexts	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#GetContexts()$/;"	f
+omni#cpp#namespaces#GetListFromCurrentBuffer	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#GetListFromCurrentBuffer(...)$/;"	f
+omni#cpp#namespaces#GetMapFromBuffer	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#GetMapFromBuffer(szFilePath, ...)$/;"	f
+omni#cpp#namespaces#GetMapFromCurrentBuffer	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#GetMapFromCurrentBuffer()$/;"	f
+omni#cpp#namespaces#GetUsingNamespaces	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#GetUsingNamespaces()$/;"	f
+omni#cpp#namespaces#ResolveAlias	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#ResolveAlias(mapNamespaceAlias, szNamespace)$/;"	f
+omni#cpp#namespaces#ResolveAll	omni/cpp/namespaces.vim	/^function! omni#cpp#namespaces#ResolveAll(namespacesUsed)$/;"	f
+omni#cpp#settings#Init	omni/cpp/settings.vim	/^function! omni#cpp#settings#Init()$/;"	f
+omni#cpp#tokenizer#Tokenize	omni/cpp/tokenizer.vim	/^function! omni#cpp#tokenizer#Tokenize(szCode)$/;"	f
+omni#cpp#utils#BuildParenthesisGroups	omni/cpp/utils.vim	/^function! omni#cpp#utils#BuildParenthesisGroups(tokens)$/;"	f
+omni#cpp#utils#CreateTypeInfo	omni/cpp/utils.vim	/^function! omni#cpp#utils#CreateTypeInfo(param)$/;"	f
+omni#cpp#utils#ExtractCmdFromTagItem	omni/cpp/utils.vim	/^function! omni#cpp#utils#ExtractCmdFromTagItem(tagItem)$/;"	f
+omni#cpp#utils#ExtractScope	omni/cpp/utils.vim	/^function! omni#cpp#utils#ExtractScope(tagItem)$/;"	f
+omni#cpp#utils#ExtractTypeInfoFromTag	omni/cpp/utils.vim	/^function! omni#cpp#utils#ExtractTypeInfoFromTag(tagItem)$/;"	f
+omni#cpp#utils#ExtractTypeInfoFromTokens	omni/cpp/utils.vim	/^function! omni#cpp#utils#ExtractTypeInfoFromTokens(tokens)$/;"	f
+omni#cpp#utils#GetCastType	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetCastType(tokens)$/;"	f
+omni#cpp#utils#GetClassInheritanceList	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetClassInheritanceList(namespaces, typeInfo)$/;"	f
+omni#cpp#utils#GetCode	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetCode(posStart, posEnd)$/;"	f
+omni#cpp#utils#GetCodeFromLine	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetCodeFromLine(szSingleLine)$/;"	f
+omni#cpp#utils#GetPreviewWindowStringFromTagItem	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetPreviewWindowStringFromTagItem(tagItem)$/;"	f
+omni#cpp#utils#GetResolvedTagItem	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetResolvedTagItem(namespaces, typeInfo)$/;"	f
+omni#cpp#utils#GetResolvedTags	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetResolvedTags(namespaces, typeInfo)$/;"	f
+omni#cpp#utils#GetTypeInfoString	omni/cpp/utils.vim	/^function! omni#cpp#utils#GetTypeInfoString(typeInfo)$/;"	f
+omni#cpp#utils#IsCursorInCommentOrString	omni/cpp/utils.vim	/^function! omni#cpp#utils#IsCursorInCommentOrString()$/;"	f
+omni#cpp#utils#IsTypeInfoValid	omni/cpp/utils.vim	/^function! omni#cpp#utils#IsTypeInfoValid(typeInfo)$/;"	f
+omni#cpp#utils#ResolveFilePath	omni/cpp/utils.vim	/^function! omni#cpp#utils#ResolveFilePath(szFile)$/;"	f
+omni#cpp#utils#SimplifyParenthesis	omni/cpp/utils.vim	/^function! omni#cpp#utils#SimplifyParenthesis(tokens)$/;"	f
+omni#cpp#utils#SimplifyScope	omni/cpp/utils.vim	/^function! omni#cpp#utils#SimplifyScope(szScope)$/;"	f
+omni#cpp#utils#TokenizeCurrentInstruction	omni/cpp/utils.vim	/^function! omni#cpp#utils#TokenizeCurrentInstruction(...)$/;"	f
+omni#cpp#utils#TokenizeCurrentInstructionUntilWord	omni/cpp/utils.vim	/^function! omni#cpp#utils#TokenizeCurrentInstructionUntilWord()$/;"	f
+omni#cpp#utils#expIgnoreComments	omni/cpp/utils.vim	/^let omni#cpp#utils#expIgnoreComments = 'getline(".") =~ g:omni#cpp#utils#reIgnoreComment'$/;"	v
+omni#cpp#utils#reIgnoreComment	omni/cpp/utils.vim	/^let omni#cpp#utils#reIgnoreComment = escape('\\\/\\\/\\|\\\/\\*\\|\\*\\\/', '*\/\\')$/;"	v
+omni#cpp#utils#szEscapedCharacters	omni/cpp/utils.vim	/^let omni#cpp#utils#szEscapedCharacters = ' %#'$/;"	v
+open	conque_term/conque.py	/^    def open(self, command, options): # {{{$/;"	m	class:Conque	access:public
+open	conque_term/conque_sole.py	/^    def open(self, command, options={}, python_exe='', communicator_py=''): # {{{$/;"	m	class:ConqueSole	access:public
+open	conque_term/conque_sole_subprocess.py	/^    def open(self, cmd, mem_key, options={}): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+open	conque_term/conque_sole_wrapper.py	/^    def open(self, cmd, options={}, python_exe='python.exe', communicator_py='conque_sole_communicator.py'): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+open	conque_term/conque_subprocess.py	/^    def open(self, command, env={}): # {{{$/;"	m	class:ConqueSubprocess	access:public
+options	conque_term/conque_sole_communicator.py	/^        options = {'LINES': console_height, 'COLUMNS': console_width}$/;"	v
+os	conque_term/conque_globals.py	/^import os$/;"	i
+os	conque_term/conque_sole_subprocess.py	/^import os$/;"	i
+os	conque_term/conque_subprocess.py	/^    import os$/;"	i
+output_blocks	conque_term/conque_sole_subprocess.py	/^    output_blocks = 1$/;"	v	class:ConqueSoleSubprocess
+parse_csi	conque_term/conque.py	/^    def parse_csi(self, s): # {{{$/;"	m	class:Conque	access:public
+paste	conque_term/conque.py	/^    def paste(self):$/;"	m	class:Conque	access:public
+paste_selection	conque_term/conque.py	/^    def paste_selection(self):$/;"	m	class:Conque	access:public
+pickle	conque_term/conque_sole_shared_memory.py	/^    import cPickle as pickle$/;"	i
+pickle	conque_term/conque_sole_shared_memory.py	/^    import pickle$/;"	i
+pid	conque_term/conque_sole_subprocess.py	/^    pid = None$/;"	v	class:ConqueSoleSubprocess
+pid	conque_term/conque_sole_wrapper.py	/^    pid = None$/;"	v	class:ConqueSoleWrapper
+pid	conque_term/conque_subprocess.py	/^    pid = 0$/;"	v	class:ConqueSubprocess
+plain_text	conque_term/conque.py	/^    def plain_text(self, input):$/;"	m	class:Conque	access:public
+plain_text	conque_term/conque_sole.py	/^    def plain_text(self, line_nr, text, attributes, stats): # {{{$/;"	m	class:ConqueSole	access:public
+proc	conque_term/conque.py	/^    proc = None$/;"	v	class:Conque
+proc	conque_term/conque_sole_communicator.py	/^        proc = ConqueSoleSubprocess()$/;"	v
+proc	conque_term/conque_sole_wrapper.py	/^    proc = None$/;"	v	class:ConqueSoleWrapper
+pty	conque_term/conque_subprocess.py	/^    import pty$/;"	i
+re	conque_term/conque.py	/^import re$/;"	i
+re	conque_term/conque_globals.py	/^import re$/;"	i
+re	conque_term/conque_sole_subprocess.py	/^import re$/;"	i
+read	conque_term/conque.py	/^    def read(self, timeout=1, set_cursor=True, return_output=False, update_buffer=True): # {{{$/;"	m	class:Conque	access:public
+read	conque_term/conque_sole.py	/^    def read(self, timeout=1, set_cursor=True, return_output=False, update_buffer=True): # {{{$/;"	m	class:ConqueSole	access:public
+read	conque_term/conque_sole_shared_memory.py	/^    def read(self, chars=1, start=0): # {{{$/;"	m	class:ConqueSoleSharedMemory	access:public
+read	conque_term/conque_sole_subprocess.py	/^    def read(self, timeout=0): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+read	conque_term/conque_sole_wrapper.py	/^    def read(self, start_line, num_lines, timeout=0): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+read	conque_term/conque_subprocess.py	/^    def read(self, timeout=1): # {{{$/;"	m	class:ConqueSubprocess	access:public
+read_count	conque_term/conque.py	/^    read_count = 0$/;"	v	class:Conque
+res	conque_term/conque_sole_communicator.py	/^        res = proc.open(cmd_line, mem_key, options)$/;"	v
+reset_console	conque_term/conque_sole_subprocess.py	/^    def reset_console(self, buf_info, add_block=True): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+reset_size	conque_term/conque_screen.py	/^    def reset_size(self, line): # {{{$/;"	m	class:ConqueScreen	access:public
+resume	conque_term/conque.py	/^    def resume(self):$/;"	m	class:Conque	access:public
+resume	conque_term/conque_sole.py	/^    def resume(self): # {{{$/;"	m	class:ConqueSole	access:public
+resume	conque_term/conque_sole_wrapper.py	/^    def resume(self): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+s:CACHE_DEBUG_TRACE	omni/common/debug.vim	/^let s:CACHE_DEBUG_TRACE = []$/;"	v
+s:CACHE_OVERLOADED_FUNCTIONS	omni/cpp/complete.vim	/^let s:CACHE_OVERLOADED_FUNCTIONS = {}$/;"	v
+s:CACHE_TAG_ENV	omni/cpp/complete.vim	/^let s:CACHE_TAG_ENV = ''$/;"	v
+s:CACHE_TAG_FILES	omni/cpp/complete.vim	/^let s:CACHE_TAG_FILES = {}$/;"	v
+s:CACHE_TAG_POPUP_ITEMS	omni/cpp/complete.vim	/^let s:CACHE_TAG_POPUP_ITEMS = {}$/;"	v
+s:OmniCpp_ShowAccess	omni/cpp/complete.vim	/^let s:OmniCpp_ShowAccess = g:OmniCpp_ShowAccess$/;"	v
+s:OmniCpp_ShowPrototypeInAbbr	omni/cpp/complete.vim	/^let s:OmniCpp_ShowPrototypeInAbbr = g:OmniCpp_ShowPrototypeInAbbr$/;"	v
+s:OmniCpp_ShowScopeInAbbr	omni/cpp/complete.vim	/^let s:OmniCpp_ShowScopeInAbbr = g:OmniCpp_ShowScopeInAbbr$/;"	v
+s:bMayComplete	omni/cpp/complete.vim	/^let s:bMayComplete = 0$/;"	v
+s:cppKeyword	omni/cpp/tokenizer.vim	/^let s:cppKeyword = ['asm', 'auto', 'bool', 'break', 'case', 'catch', 'char', 'class', 'const', 'const_cast', 'continue', 'default', 'delete', 'do', 'double', 'dynamic_cast', 'else', 'enum', 'explicit', 'export', 'extern', 'false', 'float', 'for', 'friend', 'goto', 'if', 'inline', 'int', 'long', 'mutable', 'namespace', 'new', 'operator', 'private', 'protected', 'public', 'register', 'reinterpret_cast', 'return', 'short', 'signed', 'sizeof', 'static', 'static_cast', 'struct', 'switch', 'template', 'this', 'throw', 'true', 'try', 'typedef', 'typeid', 'typename', 'union', 'unsigned', 'using', 'virtual', 'void', 'volatile', 'wchar_t', 'while', 'and', 'and_eq', 'bitand', 'bitor', 'compl', 'not', 'not_eq', 'or', 'or_eq', 'xor', 'xor_eq']$/;"	v
+s:cppOperatorPunctuator	omni/cpp/tokenizer.vim	/^let s:cppOperatorPunctuator = ['->*', '->', '--', '-=', '-', '!=', '!', '##', '#', '%:%:', '%=', '%>', '%:', '%', '&&', '&=', '&', '(', ')', '*=', '*', ',', '...', '.*', '.', '\/=', '\/', '::', ':>', ':', ';', '?', '[', ']', '^=', '^', '{', '||', '|=', '|', '}', '~', '++', '+=', '+', '<<=', '<%', '<:', '<<', '<=', '<', '==', '=', '>>=', '>>', '>=', '>']$/;"	v
+s:hasPreviewWindow	omni/cpp/complete.vim	/^let s:hasPreviewWindow = match(&completeopt, 'preview')>=0$/;"	v
+s:hasPreviewWindowOld	omni/cpp/complete.vim	/^let s:hasPreviewWindowOld = s:hasPreviewWindow$/;"	v
+s:initialized	conque_term.vim	/^let s:initialized = 0$/;"	v
+s:input_extra	conque_term.vim	/^let s:input_extra = []$/;"	v
+s:popupItemResultList	omni/cpp/complete.vim	/^let s:popupItemResultList = []$/;"	v
+s:reCComment	omni/cpp/tokenizer.vim	/^let s:reCComment = '\\\/\\*\\|\\*\\\/'$/;"	v
+s:reComment	omni/cpp/tokenizer.vim	/^let s:reComment = s:reCComment.'\\|'.s:reCppComment$/;"	v
+s:reCppComment	omni/cpp/tokenizer.vim	/^let s:reCppComment = '\\\/\\\/'$/;"	v
+s:reCppKeyword	omni/cpp/tokenizer.vim	/^let s:reCppKeyword = '\\C\\<'.join(s:cppKeyword, '\\>\\|\\<').'\\>'$/;"	v
+s:reCppOperatorOrPunctuator	omni/cpp/tokenizer.vim	/^let s:reCppOperatorOrPunctuator = escape(join(s:cppOperatorPunctuator, '\\|'), '*.\/^~[]')$/;"	v
+s:reIncludeFilePart	omni/cpp/includes.vim	/^let s:reIncludeFilePart = '\\(<\\|"\\)\\(\\f\\|\\s\\)\\+\\(>\\|"\\)'$/;"	v
+s:rePreprocIncludeFile	omni/cpp/includes.vim	/^let s:rePreprocIncludeFile = s:rePreprocIncludePart . s:reIncludeFilePart$/;"	v
+s:rePreprocIncludePart	omni/cpp/includes.vim	/^let s:rePreprocIncludePart = '\\C#\\s*include\\s*'$/;"	v
+s:save_updatetime	conque_term.vim	/^let s:save_updatetime = &updatetime$/;"	v
+s:scriptdir	conque_term.vim	/^let s:scriptdir = expand("<sfile>:h") . '\/'$/;"	v
+s:scriptdirpy	conque_term.vim	/^let s:scriptdirpy = expand("<sfile>:h") . '\/conque_term\/'$/;"	v
+s:scriptfile	conque_term.vim	/^let s:scriptfile = expand("<sfile>") $/;"	v
+s:szCurrentWorkingDir	omni/cpp/complete.vim	/^let s:szCurrentWorkingDir = getcwd()$/;"	v
+s:term_obj	conque_term.vim	/^let s:term_obj = { 'idx' : 1, 'var' : '', 'is_buffer' : 1, 'active' : 1, 'buffer_name' : '' }$/;"	v
+s:terminals	conque_term.vim	/^let s:terminals = {}$/;"	v
+s:windows_vk	conque_term.vim	/^let s:windows_vk = {$/;"	v
+screen	conque_term/conque.py	/^    screen = None$/;"	v	class:Conque
+screen_height	conque_term/conque_screen.py	/^    screen_height = 80$/;"	v	class:ConqueScreen
+screen_redraw_ct	conque_term/conque_sole.py	/^    screen_redraw_ct = 0$/;"	v	class:ConqueSole
+screen_redraw_ct	conque_term/conque_sole_subprocess.py	/^    screen_redraw_ct = 0$/;"	v	class:ConqueSoleSubprocess
+screen_top	conque_term/conque_screen.py	/^    screen_top = 1$/;"	v	class:ConqueScreen
+screen_width	conque_term/conque_screen.py	/^    screen_width = 80$/;"	v	class:ConqueScreen
+scroll_to_bottom	conque_term/conque_screen.py	/^    def scroll_to_bottom(self): # {{{$/;"	m	class:ConqueScreen	access:public
+select	conque_term/conque_subprocess.py	/^    import select$/;"	i
+serialize	conque_term/conque_sole_shared_memory.py	/^    serialize = False$/;"	v	class:ConqueSoleSharedMemory
+set_cursor	conque_term/conque.py	/^    def set_cursor(self, line, col):$/;"	m	class:Conque	access:public
+set_cursor	conque_term/conque_screen.py	/^    def set_cursor(self, line, column): # {{{$/;"	m	class:ConqueScreen	access:public
+set_cursor	conque_term/conque_sole.py	/^    def set_cursor(self, line, column): # {{{$/;"	m	class:ConqueSole	access:public
+set_screen_width	conque_term/conque_screen.py	/^    def set_screen_width(self, width): # {{{$/;"	m	class:ConqueScreen	access:public
+set_window_size	conque_term/conque_sole_subprocess.py	/^    def set_window_size(self, width, height): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+shm	conque_term/conque_sole_shared_memory.py	/^    shm = None$/;"	v	class:ConqueSoleSharedMemory
+shm_attributes	conque_term/conque_sole_subprocess.py	/^    shm_attributes = None$/;"	v	class:ConqueSoleSubprocess
+shm_attributes	conque_term/conque_sole_wrapper.py	/^    shm_attributes = None$/;"	v	class:ConqueSoleWrapper
+shm_command	conque_term/conque_sole_communicator.py	/^        shm_command = ConqueSoleSharedMemory(CONQUE_SOLE_COMMANDS_SIZE, 'command', mem_key, serialize=True)$/;"	v
+shm_command	conque_term/conque_sole_subprocess.py	/^    shm_command = None$/;"	v	class:ConqueSoleSubprocess
+shm_command	conque_term/conque_sole_wrapper.py	/^    shm_command = None$/;"	v	class:ConqueSoleWrapper
+shm_input	conque_term/conque_sole_subprocess.py	/^    shm_input = None$/;"	v	class:ConqueSoleSubprocess
+shm_input	conque_term/conque_sole_wrapper.py	/^    shm_input = None$/;"	v	class:ConqueSoleWrapper
+shm_key	conque_term/conque_sole_wrapper.py	/^    shm_key = ''$/;"	v	class:ConqueSoleWrapper
+shm_output	conque_term/conque_sole_subprocess.py	/^    shm_output = None$/;"	v	class:ConqueSoleSubprocess
+shm_output	conque_term/conque_sole_wrapper.py	/^    shm_output = None$/;"	v	class:ConqueSoleWrapper
+shm_rescroll	conque_term/conque_sole_subprocess.py	/^    shm_rescroll = None$/;"	v	class:ConqueSoleSubprocess
+shm_rescroll	conque_term/conque_sole_wrapper.py	/^    shm_rescroll = None$/;"	v	class:ConqueSoleWrapper
+shm_resize	conque_term/conque_sole_subprocess.py	/^    shm_resize = None$/;"	v	class:ConqueSoleSubprocess
+shm_resize	conque_term/conque_sole_wrapper.py	/^    shm_resize = None$/;"	v	class:ConqueSoleWrapper
+shm_stats	conque_term/conque_sole_subprocess.py	/^    shm_stats = None$/;"	v	class:ConqueSoleSubprocess
+shm_stats	conque_term/conque_sole_wrapper.py	/^    shm_stats = None$/;"	v	class:ConqueSoleWrapper
+signal	conque_term/conque_subprocess.py	/^    def signal(self, signum): # {{{$/;"	m	class:ConqueSubprocess	access:public
+signal	conque_term/conque_subprocess.py	/^    import signal$/;"	i
+sleep_time	conque_term/conque_sole_communicator.py	/^        sleep_time = 0.01$/;"	v
+stdin	conque_term/conque_sole_subprocess.py	/^    stdin = None$/;"	v	class:ConqueSoleSubprocess
+stdout	conque_term/conque_sole_subprocess.py	/^    stdout = None$/;"	v	class:ConqueSoleSubprocess
+struct	conque_term/conque_subprocess.py	/^    import struct$/;"	i
+sys	conque_term/conque_globals.py	/^import sys$/;"	i
+sys	conque_term/conque_sole_communicator.py	/^import sys$/;"	i
+sys	conque_term/conque_sole_shared_memory.py	/^import sys$/;"	i
+tabstops	conque_term/conque.py	/^    tabstops = []$/;"	v	class:Conque
+term_obj.close	conque_term.vim	/^function! s:term_obj.close() dict " {{{$/;"	f
+term_obj.read	conque_term.vim	/^function! s:term_obj.read(...) dict " {{{$/;"	f
+term_obj.set_callback	conque_term.vim	/^function! s:term_obj.set_callback(callback_func) dict " {{{$/;"	f
+term_obj.write	conque_term.vim	/^function! s:term_obj.write(text) dict " {{{$/;"	f
+term_obj.writeln	conque_term.vim	/^function! s:term_obj.writeln(text) dict " {{{$/;"	f
+termios	conque_term/conque_subprocess.py	/^    import termios$/;"	i
+time	conque_term/conque_sole_communicator.py	/^import time$/;"	i
+time	conque_term/conque_sole_subprocess.py	/^import time$/;"	i
+time	conque_term/conque_sole_wrapper.py	/^import time$/;"	i
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:CHAR_INFO	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:CHAR_UNION	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:CONSOLE_SCREEN_BUFFER_INFO	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:COORD	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:FOCUS_EVENT_RECORD	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:INPUT_RECORD	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:INPUT_UNION	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:KEY_EVENT_RECORD	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:MEMORY_BASIC_INFORMATION	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:MENU_EVENT_RECORD	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:MOUSE_EVENT_RECORD	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:PROCESS_INFORMATION	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:SECURITY_ATTRIBUTES	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:SMALL_RECT	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:STARTUPINFO	access:public
+to_str	conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:WINDOW_BUFFER_SIZE_RECORD	access:public
+top	conque_term/conque.py	/^    top = 1 # relative to top of screen$/;"	v	class:Conque
+top	conque_term/conque_sole_subprocess.py	/^    top = 0$/;"	v	class:ConqueSoleSubprocess
+translate_color	conque_term/conque_sole.py	/^    def translate_color(self, attr): # {{{$/;"	m	class:ConqueSole	access:public
+tty	conque_term/conque_subprocess.py	/^    import tty$/;"	i
+u	conque_term/conque_globals.py	/^def u(str_val, str_encoding='latin-1', errors='strict'):$/;"	f	access:public
+unwrap_tables	conque_term/conque.py	/^    unwrap_tables = True$/;"	v	class:Conque
+update_window_size	conque_term/conque.py	/^    def update_window_size(self, force=False):$/;"	m	class:Conque	access:public
+update_window_size	conque_term/conque_sole.py	/^    def update_window_size(self): # {{{$/;"	m	class:ConqueSole	access:public
+vim	conque_term/conque.py	/^import vim$/;"	i
+vim	conque_term/conque_screen.py	/^import vim$/;"	i
+vim	conque_term/conque_sole.py	/^import vim$/;"	i
+window_bottom	conque_term/conque_sole.py	/^    window_bottom = None$/;"	v	class:ConqueSole
+window_height	conque_term/conque_sole_subprocess.py	/^    window_height = 40$/;"	v	class:ConqueSoleSubprocess
+window_resize	conque_term/conque_sole_wrapper.py	/^    def window_resize(self, lines, columns): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+window_resize	conque_term/conque_subprocess.py	/^    def window_resize(self, lines, columns): # {{{$/;"	m	class:ConqueSubprocess	access:public
+window_top	conque_term/conque_sole.py	/^    window_top = None$/;"	v	class:ConqueSole
+window_width	conque_term/conque_sole_subprocess.py	/^    window_width = 160$/;"	v	class:ConqueSoleSubprocess
+working_columns	conque_term/conque.py	/^    working_columns = 80 # can be changed by CSI ? 3 l\/h$/;"	v	class:Conque
+working_lines	conque_term/conque.py	/^    working_lines = 24 # can be changed by CSI r$/;"	v	class:Conque
+wrap_cursor	conque_term/conque.py	/^    wrap_cursor = False$/;"	v	class:Conque
+write	conque_term/conque.py	/^    def write(self, input, set_cursor=True, read=True): # {{{$/;"	m	class:Conque	access:public
+write	conque_term/conque_sole_shared_memory.py	/^    def write(self, text, start=0): # {{{$/;"	m	class:ConqueSoleSharedMemory	access:public
+write	conque_term/conque_sole_subprocess.py	/^    def write(self): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+write	conque_term/conque_sole_wrapper.py	/^    def write(self, text): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+write	conque_term/conque_subprocess.py	/^    def write(self, input): # {{{$/;"	m	class:ConqueSubprocess	access:public
+write_latin1	conque_term/conque.py	/^    def write_latin1(self, input, set_cursor=True, read=True): # {{{ $/;"	m	class:Conque	access:public
+write_plain	conque_term/conque_sole_subprocess.py	/^    def write_plain(self, text): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+write_vk	conque_term/conque_sole.py	/^    def write_vk(self, vk_code): # {{{$/;"	m	class:ConqueSole	access:public
+write_vk	conque_term/conque_sole_subprocess.py	/^    def write_vk(self, vk_code): # {{{$/;"	m	class:ConqueSoleSubprocess	access:public
+write_vk	conque_term/conque_sole_wrapper.py	/^    def write_vk(self, vk_code): # {{{$/;"	m	class:ConqueSoleWrapper	access:public
+xterm_to_rgb	conque_term/conque.py	/^    def xterm_to_rgb(self, color_code): # {{{$/;"	m	class:Conque	access:public

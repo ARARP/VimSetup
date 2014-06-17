@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/apunj/code/projects/cocoa/src/StrataL3'
+let g:netrw_dirhist_2='/home/apunj/code/projects/cocoa/src/StrataL3/test'
+let g:netrw_dirhist_3='/home/apunj/code/projects/cocoa/src/StrataL3'
+let g:netrw_dirhist_4='/home/apunj/code/projects/cocoa/src/StrataL3/ptest'
+let g:netrw_dirhist_5='/home/apunj/code/projects/cocoa/src/StrataL3'
+let g:netrw_dirhist_6='/home/apunj/code/projects/cocoa/src/StrataL3/test'
+let g:netrw_dirhist_7='/home/apunj/.vim/bundle/ctrlp.vim'
+let g:netrw_dirhist_8='/home/apunj/.vim/bundle/ctrlp.vim/plugin'
