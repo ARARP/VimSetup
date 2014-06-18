@@ -3,7 +3,7 @@ use it :
  - cd <Some-place-for-ConfigFiles>
  - git clone https://github.com/ARARP/VimSetup 
  - ln -s VimSetup     ~/.vim
- - ln -s .vim/.vimrc  ~/.vimrc
+ - ln -s .vim/dotvimrc  ~/vimrc
 
 cheers
 Arun
