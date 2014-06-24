@@ -1,7 +1,7 @@
 "colors
-"if $COLORTERM == 'gnome-terminal'
-"     set t_Co=256
-"endif
+if $COLORTERM == 'gnome-terminal'
+     set t_Co=256
+endif
 
 " global config
 syntax on
@@ -26,7 +26,7 @@ vnoremap <C-n> :nohl<CR>
 inoremap <C-n> :nohl<CR>
 autocmd! bufwritepost .vimrc source %
 
-set mouse=n 
+"set mouse=n 
 filetype off
 filetype plugin on
 filetype plugin indent on
@@ -41,7 +41,7 @@ let mapleader=","
 
 "pathogen settings
 execute pathogen#infect()
-
+colorscheme professional
 " just some colors for tin/tac, totally messed up colors but colors
 au BufNewFile,BufRead *.tac set filetype=c
 au BufNewFile,BufRead *.tin set filetype=c
