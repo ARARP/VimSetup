@@ -41,6 +41,7 @@ let mapleader=","
 
 "pathogen settings
 execute pathogen#infect()
+let g:csexact_rgbtxt="/home/apunj/.vim/bundle/rgb.txt"
 colorscheme professional
 " just some colors for tin/tac, totally messed up colors but colors
 au BufNewFile,BufRead *.tac set filetype=c

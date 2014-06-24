@@ -1,0 +1,7 @@
+
+It turns out that the csexact plugin expects the rgb.txt file to be present in the
+VIMRUNTIMEPATH to interpret colors. And for some reason this file is not present 
+in the chrooted environment. So I just copied the rgb.txt into VimSetup/bundle/
+so that I do not have to worry about downloading it again.
+
+
