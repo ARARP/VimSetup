@@ -53,11 +53,12 @@ au BufNewFile,BufRead *.tin set filetype=c
 "ctrlp - fuzzy file search
 " git clone https://github.com/kien/ctrlp.vim.git
 let g:ctrlp_max_height = 30
-set wildignore+=*.pyc
 " Ctrl-p file finder
-let g:ctrlp_max_depth = 10
-let g:ctrlp_max_depth = 10
-let g:ctrlp_user_command = 'find %s -type f' 
+"
+let g:ctrlp_max_depth = 1
+let g:ctrlp_regexp = 1
+let g:ctrlp_user_command = 'find %s -type f | grep -v .cscope.cache' 
+
 
 "cscope settings
 set cspc=6
